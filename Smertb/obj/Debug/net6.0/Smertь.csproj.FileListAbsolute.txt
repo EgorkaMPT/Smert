@@ -1,0 +1,15 @@
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\Smertь.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\Smertь.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\Smertь.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\Smertь.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\Smertь.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\bin\Debug\net6.0\Smertь.exe
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\bin\Debug\net6.0\Smertь.deps.json
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\bin\Debug\net6.0\Smertь.runtimeconfig.json
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\bin\Debug\net6.0\Smertь.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\bin\Debug\net6.0\Smertь.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\Smertь.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\refint\Smertь.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\Smertь.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\Smertь.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Smertь\obj\Debug\net6.0\ref\Smertь.dll
